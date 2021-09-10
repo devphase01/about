@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @undevuser
+- 👋 Hi, I’m @dewiquer
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning at the University
 - 💞️ I’m looking to collaborate on ...
