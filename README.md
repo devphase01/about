@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dewiquer
+- 👋 Hi, I’m devphase
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning at the University
 - 💞️ I’m looking to collaborate on ...
